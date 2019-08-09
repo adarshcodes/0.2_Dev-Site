@@ -407,6 +407,7 @@ div .copy {
   .video-container iframe {
     position: relative;
     width: 100%;
+    height: auto;
     margin: 0;
     overflow: hidden;
   }
